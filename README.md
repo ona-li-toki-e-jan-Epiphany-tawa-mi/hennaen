@@ -45,8 +45,8 @@ musi ni li pali e sike mute pi kule mute. ona li lukin pona tawa mi.
 sina ken lukin e ona lon tawa ni:
 
 - paltepuk - [https://paltepuk.xyz/game-and-simulations/hennaen](https://paltepuk.xyz/game-and-simulations/hennaen/)
-- paltepuk (I2P) - [http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen](http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen/)
-- paltepuk (Tor) - [http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen](http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen/)
+- paltepuk (linluwi I2P) - [http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen](http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen/)
+- paltepuk (linluwi Tor) - [http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen](http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen/)
 
 ## nasin kepeken
 
@@ -66,10 +66,10 @@ ijo wile:
 
 - ijo TypeScript - [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
-tawa kama jo e ona la sina ken kepeken e nimi wawa `nix develop` kepeken lipu
+tawa kama jo e ona la sina ken kepeken e nimi lawa `nix develop` kepeken lipu
 `flake.nix`.
 
-ni la o kepeken e nimi wawa ni:
+ni la o kepeken e nimi lawa ni:
 
 ```sh
 tsc
