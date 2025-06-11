@@ -7,7 +7,7 @@ colored circles, which I find visually appealing.
 
 You can view a live demo at one of the following link(s):
 
-- paltepuk - [https://paltepuk.xyz/game-and-simulations/multiply-by-n](https://paltepuk.xyz/game-and-simulations/hennaen/)
+- paltepuk - [https://paltepuk.xyz/game-and-simulations/hennaen](https://paltepuk.xyz/game-and-simulations/hennaen/)
 - paltepuk (I2P) - [http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen](http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen/)
 - paltepuk (Tor) - [http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen](http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen/)
 
@@ -44,7 +44,7 @@ musi ni li pali e sike mute pi kule mute. ona li lukin pona tawa mi.
 
 sina ken lukin e ona lon tawa ni:
 
-- paltepuk - [https://paltepuk.xyz/game-and-simulations/multiply-by-n](https://paltepuk.xyz/game-and-simulations/hennaen/)
+- paltepuk - [https://paltepuk.xyz/game-and-simulations/hennaen](https://paltepuk.xyz/game-and-simulations/hennaen/)
 - paltepuk (I2P) - [http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen](http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/game-and-simulations/hennaen/)
 - paltepuk (Tor) - [http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen](http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/game-and-simulations/hennaen/)
 
