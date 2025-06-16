@@ -64,7 +64,7 @@ lon lipu `src/index.js` la sina ken ante e nasin pali Hennaen.
 
 ijo wile:
 
-- ijo TypeScript - [https://www.typescriptlang.org](https://www.typescriptlang.org)
+- ilo TypeScript - [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
 tawa kama jo e ona la sina ken kepeken e nimi lawa `nix develop` kepeken lipu
 `flake.nix`.
